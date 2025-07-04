@@ -9,3 +9,10 @@
   - 4 - Unsupervised Learning and Generative Models in Keras
   - 5 - Advanced Keras techniques and Custom Training Loops
   - 6 - Reinforcement Learning, Q-Learning, Q-Networks (DQNs)
+ 
+* The folder IBM-PyTorch-Basics refers to the edX course IBM ML0210EN - PyTorch Basics for Machine Learning (https://learning.edx.org/course/course-v1:IBM+ML0210EN+3T2024/home)
+  - 1 - Tensors 1D
+  - 2 - Linear Regression
+  - 3 - Linear Regression PyTorch Way
+  - 4 - Multiple Input Output Linear Regression
+  - 5 - Logistic Regression for Classification
