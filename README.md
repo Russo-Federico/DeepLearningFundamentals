@@ -16,3 +16,10 @@
   - 3 - Linear Regression PyTorch Way
   - 4 - Multiple Input Output Linear Regression
   - 5 - Logistic Regression for Classification
+
+* The folder IBM-PyTorch-DL refers to the edX course IBM DL0110EN - Deep Learning with Python and PyTorch (https://learning.edx.org/course/course-v1:IBM+DL0110EN+3T2024/home)
+  - 1 - Logistic Regression Cross Entropy Loss
+  - 2 - Softmax Regression
+  - 3 - Shallow NNs
+  - 4 - Deep Networks
+  - 5 - CNNs
